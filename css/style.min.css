@@ -1,0 +1,16 @@
+.banner {
+  min-height: 400px;
+  background-image: url(/img/myphoto.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+.slider img {
+  height: 400px;
+  -o-object-fit: cover;
+    object-fit: cover;
+}
+
+

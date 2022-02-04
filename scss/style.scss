@@ -1,0 +1,36 @@
+.banner {
+	min-height: 400px;
+	background-image: url(/img/myphoto.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+.slider {
+	
+	img {
+		height: 400px;
+		object-fit: cover;
+	}
+}
+
+// .img1 {
+// 	image-orientation: 40px;
+// }
+
+// .img2 {
+// 	image-orientation: 170px;
+// }
+
+// .img3 {
+// 	image-orientation: 190px;
+// }
+
+.nested {
+	img {
+		height: 250px;
+		object-fit: cover;
+	}
+}
+
